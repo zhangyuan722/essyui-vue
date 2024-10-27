@@ -1,0 +1,21 @@
+{
+  "name": "essyui-vue",
+  "version": "0.0.1",
+  "description": "Minimalist UI components",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangyuan722/essyui-vue.git"
+  },
+  "keywords": [
+    "essyui"
+  ],
+  "author": "zhangyuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangyuan722/essyui-vue/issues"
+  },
+  "homepage": "https://github.com/zhangyuan722/essyui-vue#readme"
+}
